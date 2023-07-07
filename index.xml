@@ -6,14 +6,14 @@
     <description>Recent content on ztblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jul 2023 08:54:19 +0800</lastBuildDate><atom:link href="https://ztony6688.github.io/ztblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 09:04:25 +0800</lastBuildDate><atom:link href="https://ztony6688.github.io/ztblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Frist</title>
-      <link>https://ztony6688.github.io/ztblog/post/frist/</link>
-      <pubDate>Fri, 07 Jul 2023 08:54:19 +0800</pubDate>
+      <title>1</title>
+      <link>https://ztony6688.github.io/ztblog/post/1/</link>
+      <pubDate>Fri, 07 Jul 2023 09:04:25 +0800</pubDate>
       
-      <guid>https://ztony6688.github.io/ztblog/post/frist/</guid>
-      <description>hugo + github + labsworld.net brew 快速安装 hugo brew install hugo hugo new site mysite Congratulations! Your new Hugo site is created in /Users/hn_crypto/Desktop/working/mysite. Just a few more steps and you&amp;#39;re ready to go: 1. Download a theme into the same-named folder. Choose a theme from https://themes.gohugo.io/ or create your own with the &amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34; command. 下载一个新的模板 2. Perhaps you want to add some content. You can add single files with &amp;#34;hugo new &amp;lt;SECTIONNAME&amp;gt;/&amp;lt;FILENAME&amp;gt;.</description>
+      <guid>https://ztony6688.github.io/ztblog/post/1/</guid>
+      <description>xxx</description>
     </item>
     
   </channel>
