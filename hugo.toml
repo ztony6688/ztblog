@@ -1,0 +1,4 @@
+baseURL = 'https://ztony6688.github.io/ztblog/'
+languageCode = 'en-us'
+title = 'ztblog'
+theme = 'PaperMod'
